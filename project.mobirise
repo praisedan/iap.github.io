@@ -28,6 +28,8 @@
         "isScrollToTopButton": false
       }
     },
+    "favicon": "@PROJECT_PATH@/assets/images/transform-logo-12-128x128.png",
+    "noImageResize": "",
     "versionFirst": "4.6.7",
     "uniqCompNum": 14,
     "versionPublish": "4.6.7"
